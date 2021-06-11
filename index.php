@@ -2,5 +2,5 @@
 
 echo "olá MUNDO!";
 
-echo "Testes do curso"
+echo "Testes do curso";
 ?>
